@@ -19,7 +19,7 @@ IBM-Project-34397-1660235048
   - Veeramalli Rahul
 ## Table of Content
   * [Project Objectives](#project-objectives--)
-  * [Introduction](#introduction--)
+  * [Introduction](#introduction---)
   * [Common threats of Agriculture](#common-threats-of-agriculture--)
   * [Technical Architecture](#technical-architecture--)
   * [Technologies Used](#technologies-used--)
@@ -39,7 +39,7 @@ IBM-Project-34397-1660235048
  from wherever and at whatever point.
 
  ## Introduction : <picture> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" alt="🎊" width="30" height="30"></picture>
-Smart farming is performing agricultural operations smartly with more precision, and it relies on the use of the Internet of Things (loT) and Artificial Intelligence (Al). Smart agriculture addresses many issues related to crop production as it allows monitoring of the changes in climatic factors, soil characteristics, soil moisture, etc.
+Smart farming is performing agricultural operations smartly with more precision, and it relies on the use of the Internet of Things (loT) and Artificial Intelligence (Al). Smart agriculture addresses many issues related to crop production as it allows monitoring of the changes in climatic factors, temperature, humidity, etc.
   
 
 ## Common threats of Agriculture : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="25" height="25" /> 
