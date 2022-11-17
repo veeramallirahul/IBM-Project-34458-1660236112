@@ -55,8 +55,8 @@ instance, clever grids, splendid homes, canny moving and smart urban groups.
 
 [<img target="_blank" src="https://avatars.githubusercontent.com/u/9221727?s=280&v=4" width=200>](https://internetofthings.ibmcloud.com) [<img target="_blank" src="https://images.pling.com/img/00/00/08/01/07/1107980/66411-1.png" width=200>](https://www.python.org/downloads/release/python-398/)
 [<img target="_blank" src="https://www.proknx.com/wp-content/uploads/2016/12/node-red-icon-2.png" width=200>](https://nodered.org/) 
-[<img target="_blank" src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png>](https://appinventor.mit.edu/) 
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IBM_Cloud_logo.png/250px-IBM_Cloud_logo.png" width=200>](https://cloud.ibm.com/login) 
+[<img target="_blank" src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png" width=200>](https://appinventor.mit.edu/)
+[<img target="_blank" src="https://www.arelion.com/dam/jcr:993ba4cc-57f0-4d8a-b4b2-71a2a58be8e8/IBM%20Cloud.png" width=200>](https://cloud.ibm.com/login) 
  
  
 
