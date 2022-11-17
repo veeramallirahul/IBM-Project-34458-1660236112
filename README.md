@@ -17,6 +17,13 @@ IBM-Project-34397-1660235048
   - Sivasundharam
   - Vishwajith
   - Veeramalli Rahul
+## Table of Content
+  * [Project Objectives](#project-objectives)
+  * [Introduction](#introduction)
+  * [Common threats of Agriculture](#common-threats-of-agriculture)
+  * [Technical Architecture](#technical-architecture)
+  * [Technologies Used](#technologies-used)
+ 
   
  ## Project Objectives : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
@@ -32,9 +39,10 @@ IBM-Project-34397-1660235048
  from wherever and at whatever point.
 
  ## Introduction : <picture> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" alt="🎊" width="30" height="30"></picture>
+Smart farming is performing agricultural operations smartly with more precision, and it relies on the use of the Internet of Things (loT) and Artificial Intelligence (Al). Smart agriculture addresses many issues related to crop production as it allows monitoring of the changes in climatic factors, soil characteristics, soil moisture, etc.
   
 
-Common threats of Agriculture : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="25" height="25" /> 
+## Common threats of Agriculture : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="25" height="25" /> 
 
 1. Agriculture is the root to country’s economic development. In recent times, huge scientific advancement
 has been implemented in various agricultural fields for the betterment of the future. 
