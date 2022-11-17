@@ -56,8 +56,8 @@ instance, clever grids, splendid homes, canny moving and smart urban groups.
 [<img target="_blank" src="https://avatars.githubusercontent.com/u/9221727?s=280&v=4" width=200>](https://internetofthings.ibmcloud.com) [<img target="_blank" src="https://images.pling.com/img/00/00/08/01/07/1107980/66411-1.png" width=200>](https://www.python.org/downloads/release/python-398/)
 [<img target="_blank" src="https://www.proknx.com/wp-content/uploads/2016/12/node-red-icon-2.png" width=200>](https://nodered.org/) 
 [<img target="_blank" src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png>](https://appinventor.mit.edu/) 
-[<img target="_blank" src="https://i.ibb.co/7nDGQks/flask-removebg-preview.png" width=200>](https://flask.palletsprojects.com/en/2.0.x/) 
-[<img target="_blank" src="https://financialit.net/sites/default/files/ibm_cloud-ar21_0.png" width=200>](https://www.ibm.com/in-en/cloud?utm_content=SRCWW&p1=Search&p4=43700052661371387&p5=e&gclid=CjwKCAiAvK2bBhB8EiwAZUbP1MNb2RC3e1TDBJhMnJdNAtW-tlFA3uNoTQQwUu0EKRW6GeB9INwZ4BoCpLgQAvD_BwE&gclsrc=aw.ds) 
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IBM_Cloud_logo.png/250px-IBM_Cloud_logo.png" width=200>](https://cloud.ibm.com/login) 
+ 
  
 
 
