@@ -21,8 +21,8 @@ IBM-Project-34397-1660235048
   * [Project Objectives](#project-objectives--)
   * [Introduction](#introduction---)
   * [Common threats of Agriculture](#common-threats-of-agriculture--)
-  * [Technical Architecture](#technical-architecture--)
-  * [Technologies Used](#technologies-used--)
+  * [Technical Architecture](#technical-architecture-)
+  * [Technologies Used](#technologies-used)
  
   
  ## Project Objectives : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
